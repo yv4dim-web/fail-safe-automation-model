@@ -86,4 +86,3 @@ This logic prioritizes:
 - correctness over convenience
 - clarity over optimism
 
----
